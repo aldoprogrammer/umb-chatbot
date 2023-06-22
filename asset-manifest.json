@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/umb-chatbot/static/js/main.073a0869.js",
+    "main.js": "/umb-chatbot/static/js/main.38d97ff1.js",
     "static/media/botUmb.png": "/umb-chatbot/static/media/botUmb.076885088740e339ad2c.png",
     "static/media/umbPolos.png": "/umb-chatbot/static/media/umbPolos.273e76cef0723420328d.png",
     "index.html": "/umb-chatbot/index.html",
-    "main.073a0869.js.map": "/umb-chatbot/static/js/main.073a0869.js.map"
+    "main.38d97ff1.js.map": "/umb-chatbot/static/js/main.38d97ff1.js.map"
   },
   "entrypoints": [
-    "static/js/main.073a0869.js"
+    "static/js/main.38d97ff1.js"
   ]
 }
