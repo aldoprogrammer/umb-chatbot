@@ -6,4 +6,4 @@ you can custumize the text, like the answer, question, and also the response of 
 feel free to ask me something, you can hit me on my contact in the profile of my github account.
 
 ## another note
-i also put the code above, you all can check it out. nanti bisa memungkinkan nan
+i also put the code above, you all can check it out. nanti bisa memungkinkan nant
